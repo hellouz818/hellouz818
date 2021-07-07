@@ -10,7 +10,7 @@
 
 ### Skills 👊
 - **Language** : Python, Java
-- **Framework** : Django, Spring Boot
+- **Framework** : Django, DRF, Spring Boot
 - **Good at** : Communication & Googling & Smile 😄
 
 
