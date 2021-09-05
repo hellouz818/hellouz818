@@ -19,7 +19,8 @@
 - Member of Sookmyung Women's University Programming Club [SOLUX](https://solux.dev/) (2018.03 ~ 2019.06)
 - [LikeLion](https://www.likelion.net/) 7th Member (2019.01 ~ 2019.12)
 - [LikeLion](https://www.likelion.net/) 8th Executive (2020.01 ~ 2020.12)
-- [Google Developer Student Club](https://dsc.community.dev/sookmyung-womens-university/)  Member (2020.09 ~ )
+- [Google Developer Student Club](https://dsc.community.dev/sookmyung-womens-university/)  Member (2020.09 ~ 2021.08)
+- [Google Developer Student Club](https://dsc.community.dev/sookmyung-womens-university/) Web-Backend Core Member  (2021.09 ~ )
 
 ### How to reach me? 📫
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hellouz818@gmail.com)](mailto:hellouz818@gmail.com)
